@@ -9,11 +9,6 @@
 
 /** @author KAILASH JOSHI*/
 
-/*public class Ch2Ex2
- {
-
- }*/
-
 public class Account {
 	String accHolderName = "";
 	String accNumber = "";
