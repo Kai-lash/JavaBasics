@@ -13,7 +13,3 @@ public class Ch3Lu2Ex1
 		System.out.println("Testing Variables"); 
 	}
  }
-
-/*After completing the exercise, you can submit it using the button provided 
-on the application. You should find a button near the bottom 
-right corner of your screen.*/ 
